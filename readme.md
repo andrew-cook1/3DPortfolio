@@ -1,7 +1,7 @@
 # 3D Portfolio
 
 ## Try it out here:
-[https://yourusername.github.io/yourprojectname](https://yourusername.github.io/yourprojectname)
+[https://andrew-cook1.github.io/3DPortfolio/](https://andrew-cook1.github.io/3DPortfolio/)
 
 ## Features & Controls
 - Move around by Left Clicking on the Environment
