@@ -1,4 +1,4 @@
-# 3D Portfolio
+# Technical Artist Interactive Portfolio
 
 ## Try it out here:
 [https://andrew-cook1.github.io/3DPortfolio/](https://andrew-cook1.github.io/3DPortfolio/)
